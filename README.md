@@ -14,11 +14,11 @@ player only loses his turn when he misses.
 
 Each player has 5 ships on his board. The ship names and their lengths:
 
-Carrier:5 squares
+Carrier: 5 squares
 
 Battleship: 4 squares 
 
-Frigate: 3 suares
+Frigate: 3 squares
 
 Sunmarine: 3 squares
 
