@@ -1,6 +1,7 @@
 # Battleship-Game
 ## Specs
  java version "1.8.0_121" used.
+ 
  javax.swing library used for graphics.
 
 ## Desciption
