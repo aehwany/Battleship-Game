@@ -12,7 +12,7 @@ Each player puts 5 ships onto his board, which his opponent can't see.
 
 player only loses his turn when he misses.
 
-Each player has 5 ships on his board. The ships and their lengths:
+Each player has 5 ships on his board. The ship names and their lengths:
 
 Carrier:5 squares
 
