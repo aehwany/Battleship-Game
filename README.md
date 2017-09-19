@@ -29,7 +29,14 @@ The player who wins is the one who sinks his opponents' 5 ships first.
 
 
 ## Start playing!
-You can access the jar file for the game and download it from this dropbox link:
+ 
+You can access the jar file for the game by
+
+1- downloading Battleship.jar from repository
+
+or
+
+2-download it from this dropbox link:
 
 https://www.dropbox.com/sh/x1oz5coh0yoq5cj/AADE971qWzJQ7YCDr-eBqc_Na?dl=0
 
