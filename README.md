@@ -32,7 +32,7 @@ The player who wins is the one who sinks his opponents' 5 ships first.
  
 Windows
 
-download Battleship.exe from the repository.
+download Battleship.exe from repository.
 
 Mac
 
