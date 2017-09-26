@@ -36,7 +36,7 @@ download Battleship.exe from the repository.
 
 Mac
 
-1- downloading Battleship.jar from repository
+downloading Battleship.jar from repository
 
 
 
